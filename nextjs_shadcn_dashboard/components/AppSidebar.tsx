@@ -79,13 +79,13 @@ const AppSidebar = () => {
             <SidebarMenuButton asChild>
               <Link href="/">
                 <Image
-                  src="/logo.svg"
+                  src="/logo2.ico"
                   alt="logo"
                   width={20}
                   height={20}
                   className="rounded-full"
                 />
-                <span>Lama Dev</span>
+                <span>iltcode</span>
               </Link>
             </SidebarMenuButton>
           </SidebarMenuItem>
